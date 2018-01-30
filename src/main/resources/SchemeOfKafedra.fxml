@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.kaf22.Controllers.Schema">
+   <children>
+      <ImageView fitHeight="800.0" fitWidth="1350.0" layoutX="100.0" layoutY="79.0" pickOnBounds="true" preserveRatio="true" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <image>
+            <Image url="@kaf.png" />
+         </image>
+      </ImageView>
+      <Pane fx:id="a223a" layoutX="212.0" layoutY="27.0" prefHeight="266.0" prefWidth="179.0" style="-fx-background-color: #006c04;" AnchorPane.leftAnchor="212.0" AnchorPane.topAnchor="27.0">
+         <children>
+            <Label layoutX="124.0" layoutY="14.0" text="223а" textFill="WHITE">
+               <font>
+                  <Font name="System Bold" size="18.0" />
+               </font>
+            </Label>
+            <Label fx:id="g223a" alignment="CENTER" layoutX="-1.0" layoutY="69.0" prefHeight="66.0" prefWidth="181.0" textFill="#e3fc03">
+               <font>
+                  <Font name="System Bold" size="45.0" />
+               </font>
+            </Label>
+            <Label fx:id="v223a" alignment="CENTER" layoutX="-1.0" layoutY="133.0" prefHeight="36.0" prefWidth="180.0" textFill="#00b9ff">
+               <font>
+                  <Font name="System Bold" size="25.0" />
+               </font>
+            </Label>
+         </children>
+      </Pane>
+      <Pane fx:id="a223" layoutX="403.0" layoutY="26.0" prefHeight="267.0" prefWidth="179.0" style="-fx-background-color: #006c04;" AnchorPane.leftAnchor="403.0" AnchorPane.topAnchor="26.0">
+         <children>
+            <Label layoutX="108.0" layoutY="14.0" text="223" textFill="WHITE">
+               <font>
+                  <Font name="System Bold" size="18.0" />
+               </font>
+            </Label>
+            <Label fx:id="g223" alignment="CENTER" layoutY="68.0" prefHeight="66.0" prefWidth="180.0" textFill="#e3fc03">
+               <font>
+                  <Font name="System Bold" size="45.0" />
+               </font>
+            </Label>
+            <Label fx:id="v223" alignment="CENTER" layoutX="-1.0" layoutY="134.0" prefHeight="36.0" prefWidth="180.0" textFill="#00b9ff">
+               <font>
+                  <Font name="System Bold" size="25.0" />
+               </font>
+            </Label>
+         </children>
+      </Pane>
+      <Pane fx:id="a221" layoutX="593.0" layoutY="25.0" prefHeight="268.0" prefWidth="181.0" style="-fx-background-color: #006c04;" AnchorPane.leftAnchor="593.0" AnchorPane.topAnchor="25.0">
+         <children>
+            <Label fx:id="g221" alignment="CENTER" layoutX="-1.0" layoutY="68.0" prefHeight="66.0" prefWidth="182.0" textFill="#e3fc03">
+               <font>
+                  <Font name="System Bold" size="45.0" />
+               </font>
+            </Label>
+            <Label layoutX="122.0" layoutY="14.0" text="221" textFill="WHITE">
+               <font>
+                  <Font name="System Bold" size="18.0" />
+               </font>
+            </Label>
+            <Label fx:id="v221" alignment="CENTER" layoutY="134.0" prefHeight="36.0" prefWidth="181.0" textFill="#00b9ff">
+               <font>
+                  <Font name="System Bold" size="25.0" />
+               </font>
+            </Label>
+         </children>
+      </Pane>
+      <Pane fx:id="a219" layoutX="907.0" layoutY="21.0" prefHeight="272.0" prefWidth="177.0" style="-fx-background-color: #006c04;" AnchorPane.leftAnchor="907.0" AnchorPane.topAnchor="21.0">
+         <children>
+            <Label layoutX="130.0" layoutY="14.0" text="219" textFill="WHITE">
+               <font>
+                  <Font name="System Bold" size="18.0" />
+               </font>
+            </Label>
+            <Label fx:id="g219" alignment="CENTER" layoutY="70.0" prefHeight="66.0" prefWidth="177.0" textFill="#e3fc03">
+               <font>
+                  <Font name="System Bold" size="45.0" />
+               </font>
+            </Label>
+            <Label fx:id="v219" alignment="CENTER" layoutX="-1.0" layoutY="136.0" prefHeight="36.0" prefWidth="177.0" textFill="#00b9ff">
+               <font>
+                  <Font name="System Bold" size="25.0" />
+               </font>
+            </Label>
+         </children>
+      </Pane>
+      <Pane fx:id="a219a" layoutX="1096.0" layoutY="21.0" prefHeight="273.0" prefWidth="177.0" style="-fx-background-color: #006c04;" AnchorPane.leftAnchor="1096.0" AnchorPane.topAnchor="21.0">
+         <children>
+            <Label layoutX="125.0" layoutY="14.0" text="219а" textFill="WHITE">
+               <font>
+                  <Font name="System Bold" size="18.0" />
+               </font>
+            </Label>
+            <Label fx:id="g219a" alignment="CENTER" layoutX="-1.0" layoutY="71.0" prefHeight="66.0" prefWidth="179.0" textFill="#e3fc03">
+               <font>
+                  <Font name="System Bold" size="45.0" />
+               </font>
+            </Label>
+            <Label fx:id="v219a" alignment="CENTER" layoutX="-1.0" layoutY="137.0" prefHeight="36.0" prefWidth="179.0" textFill="#00b9ff">
+               <font>
+                  <Font name="System Bold" size="25.0" />
+               </font>
+            </Label>
+         </children>
+      </Pane>
+      <Pane fx:id="a224" layoutX="599.0" layoutY="475.0" prefHeight="266.0" prefWidth="180.0" style="-fx-background-color: #006c04;" AnchorPane.leftAnchor="599.0" AnchorPane.topAnchor="475.0">
+         <children>
+            <Label fx:id="g224" alignment="CENTER" layoutX="-1.0" layoutY="67.0" prefHeight="66.0" prefWidth="181.0" textFill="#e3fc03">
+               <font>
+                  <Font name="System Bold" size="45.0" />
+               </font>
+            </Label>
+            <Label layoutX="133.0" layoutY="14.0" text="224" textFill="WHITE">
+               <font>
+                  <Font name="System Bold" size="18.0" />
+               </font>
+            </Label>
+            <Label fx:id="v224" alignment="CENTER" layoutY="133.0" prefHeight="36.0" prefWidth="180.0" textFill="#00b9ff">
+               <font>
+                  <Font name="System Bold" size="25.0" />
+               </font>
+            </Label>
+         </children></Pane>
+      <Pane fx:id="a226" layoutX="405.0" layoutY="475.0" prefHeight="265.0" prefWidth="182.0" style="-fx-background-color: #006c04;" AnchorPane.leftAnchor="405.0" AnchorPane.topAnchor="475.0">
+         <children>
+            <Label layoutX="136.0" layoutY="14.0" text="226" textFill="WHITE">
+               <font>
+                  <Font name="System Bold" size="18.0" />
+               </font>
+            </Label>
+            <Label fx:id="g226" alignment="CENTER" layoutX="-1.0" layoutY="67.0" prefHeight="66.0" prefWidth="182.0" textFill="#e3fc03">
+               <font>
+                  <Font name="System Bold" size="45.0" />
+               </font>
+            </Label>
+            <Label fx:id="v226" alignment="CENTER" layoutY="133.0" prefHeight="36.0" prefWidth="182.0" textFill="#00b9ff">
+               <font>
+                  <Font name="System Bold" size="25.0" />
+               </font>
+            </Label>
+         </children></Pane>
+      <Pane fx:id="a230" layoutX="17.0" layoutY="475.0" prefHeight="265.0" prefWidth="179.0" style="-fx-background-color: #006c04;" AnchorPane.leftAnchor="17.0" AnchorPane.topAnchor="475.0">
+         <children>
+            <Label layoutX="133.0" layoutY="14.0" text="230" textFill="WHITE">
+               <font>
+                  <Font name="System Bold" size="18.0" />
+               </font>
+            </Label>
+            <Label fx:id="g230" alignment="CENTER" layoutX="-1.0" layoutY="67.0" prefHeight="66.0" prefWidth="180.0" textFill="#e3fc03">
+               <font>
+                  <Font name="System Bold" size="45.0" />
+               </font>
+            </Label>
+            <Label fx:id="v230" alignment="CENTER" layoutX="1.0" layoutY="133.0" prefHeight="36.0" prefWidth="177.0" textFill="#00b9ff">
+               <font>
+                  <Font name="System Bold" size="25.0" />
+               </font>
+            </Label>
+         </children></Pane>
+      <Pane fx:id="kondratyk" layoutX="17.0" layoutY="28.0" prefHeight="266.0" prefWidth="53.0" style="-fx-background-color: #fcf86b;" AnchorPane.leftAnchor="17.0" AnchorPane.topAnchor="28.0">
+         <children>
+            <Label layoutX="-58.0" layoutY="144.0" rotate="270.0" text="п/п-к Кондратюк">
+               <font>
+                  <Font name="System Bold Italic" size="18.0" />
+               </font>
+            </Label>
+         </children>
+      </Pane>
+      <Pane fx:id="nesterenko" layoutX="83.0" layoutY="27.0" prefHeight="266.0" prefWidth="52.0" style="-fx-background-color: #fcf86b;" AnchorPane.leftAnchor="83.0" AnchorPane.topAnchor="27.0">
+         <children>
+            <Label layoutX="-67.0" layoutY="142.0" rotate="270.0" text="п/п-к Нестеренко">
+               <font>
+                  <Font name="System Bold Italic" size="18.0" />
+               </font>
+            </Label>
+         </children>
+      </Pane>
+      <Pane fx:id="vikladatska" layoutX="147.0" layoutY="28.0" prefHeight="266.0" prefWidth="52.0" style="-fx-background-color: #fcf86b;" AnchorPane.leftAnchor="147.0" AnchorPane.topAnchor="28.0">
+         <children>
+            <Label layoutX="-33.0" layoutY="127.0" rotate="270.0" text="Викладацька">
+               <font>
+                  <Font name="System Bold Italic" size="18.0" />
+               </font>
+            </Label>
+         </children>
+      </Pane>
+      <Pane fx:id="laboranti" layoutX="207.0" layoutY="475.0" prefHeight="266.0" prefWidth="56.0" style="-fx-background-color: #fcf86b;" AnchorPane.leftAnchor="207.0" AnchorPane.topAnchor="475.0">
+         <children>
+            <Label layoutX="-38.0" layoutY="120.0" rotate="270.0" text="Лаборантська">
+               <font>
+                  <Font name="System Bold Italic" size="18.0" />
+               </font>
+            </Label>
+         </children>
+      </Pane>
+      <Pane fx:id="sisi" layoutX="274.0" layoutY="476.0" prefHeight="265.0" prefWidth="51.0" style="-fx-background-color: #fcf86b;" AnchorPane.leftAnchor="274.0" AnchorPane.topAnchor="476.0">
+         <children>
+            <Label layoutX="5.0" layoutY="119.0" rotate="270.0" text="228а">
+               <font>
+                  <Font name="System Bold Italic" size="18.0" />
+               </font>
+            </Label>
+         </children>
+      </Pane>
+      <Pane fx:id="lubarskii" layoutX="337.0" layoutY="474.0" prefHeight="267.0" prefWidth="56.0" style="-fx-background-color: #fcf86b;" AnchorPane.leftAnchor="337.0" AnchorPane.topAnchor="474.0">
+         <children>
+            <Label layoutX="-62.0" layoutY="120.0" rotate="270.0" text="Начальник кафедри">
+               <font>
+                  <Font name="System Bold Italic" size="18.0" />
+               </font>
+            </Label>
+         </children>
+      </Pane>
+      <Pane fx:id="ft" layoutX="791.0" layoutY="474.0" prefHeight="122.0" prefWidth="91.0" style="-fx-background-color: #fcf86b;" AnchorPane.leftAnchor="791.0" AnchorPane.topAnchor="474.0">
+         <children>
+            <Label layoutX="-2.0" layoutY="48.0" rotate="270.0" text="туалет Ж">
+               <font>
+                  <Font name="System Bold Italic" size="18.0" />
+               </font>
+            </Label>
+         </children>
+      </Pane>
+      <Pane fx:id="mt" layoutX="791.0" layoutY="612.0" prefHeight="129.0" prefWidth="92.0" style="-fx-background-color: #fcf86b;" AnchorPane.leftAnchor="791.0" AnchorPane.topAnchor="612.0">
+         <children>
+            <Label layoutY="51.0" rotate="270.0" text="туалет Ч">
+               <font>
+                  <Font name="System Bold Italic" size="18.0" />
+               </font>
+            </Label>
+         </children>
+      </Pane>
+      <Pane fx:id="vmivalnik" layoutX="895.0" layoutY="475.0" prefHeight="265.0" prefWidth="58.0" style="-fx-background-color: #fcf86b;" AnchorPane.leftAnchor="895.0" AnchorPane.topAnchor="475.0">
+         <children>
+            <Label layoutX="-20.0" layoutY="119.0" rotate="270.0" text="вмивальна">
+               <font>
+                  <Font name="System Bold Italic" size="18.0" />
+               </font>
+            </Label>
+         </children>
+      </Pane>
+      <Pane fx:id="komora" layoutX="965.0" layoutY="473.0" prefHeight="267.0" prefWidth="53.0" style="-fx-background-color: #fcf86b;" AnchorPane.leftAnchor="965.0" AnchorPane.topAnchor="473.0">
+         <children>
+            <Label layoutX="-5.0" layoutY="128.0" rotate="270.0" text="комора">
+               <font>
+                  <Font name="System Bold Italic" size="18.0" />
+               </font>
+            </Label>
+         </children>
+      </Pane>
+      <Pane fx:id="server" layoutX="1030.0" layoutY="473.0" prefHeight="267.0" prefWidth="58.0" style="-fx-background-color: #fcf86b;" AnchorPane.leftAnchor="1030.0" AnchorPane.topAnchor="473.0">
+         <children>
+            <Label layoutX="-11.0" layoutY="120.0" rotate="270.0" text="серверна">
+               <font>
+                  <Font name="System Bold Italic" size="18.0" />
+               </font>
+            </Label>
+         </children>
+      </Pane>
+      <Pane fx:id="kaptyora" layoutX="1101.0" layoutY="474.0" prefHeight="265.0" prefWidth="54.0" style="-fx-background-color: #fcf86b;" AnchorPane.leftAnchor="1101.0" AnchorPane.topAnchor="474.0">
+         <children>
+            <Label layoutX="-10.0" layoutY="119.0" rotate="270.0" text="щитова">
+               <font>
+                  <Font name="System Bold Italic" size="18.0" />
+               </font>
+            </Label>
+         </children>
+      </Pane>
+      <Pane fx:id="stockii_subach" layoutX="784.0" layoutY="23.0" prefHeight="270.0" prefWidth="50.0" style="-fx-background-color: #fcf86b;" AnchorPane.leftAnchor="784.0" AnchorPane.topAnchor="23.0">
+         <children>
+            <Label layoutX="-83.0" layoutY="122.0" rotate="270.0" text="Начальник лабораторії">
+               <font>
+                  <Font name="System Bold Italic" size="18.0" />
+               </font>
+            </Label>
+         </children>
+      </Pane>
+      <Pane fx:id="gragdansie" layoutX="1284.0" layoutY="21.0" prefHeight="272.0" prefWidth="50.0" style="-fx-background-color: #fcf86b;" AnchorPane.leftAnchor="1284.0" AnchorPane.topAnchor="21.0">
+         <children>
+            <Label layoutX="-41.0" layoutY="123.0" rotate="270.0" text="Викладацька 2">
+               <font>
+                  <Font name="System Bold Italic" size="18.0" />
+               </font>
+            </Label>
+         </children>
+      </Pane>
+      <Pane fx:id="stockii_subach1" layoutX="845.0" layoutY="24.0" prefHeight="270.0" prefWidth="50.0" style="-fx-background-color: #fcf86b;" AnchorPane.leftAnchor="845.0" AnchorPane.topAnchor="24.0">
+         <children>
+            <Label layoutX="5.0" layoutY="122.0" rotate="270.0" text="Діди">
+               <font>
+                  <Font name="System Bold Italic" size="18.0" />
+               </font>
+            </Label>
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>

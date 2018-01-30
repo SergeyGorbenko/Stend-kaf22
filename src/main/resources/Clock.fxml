@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ProgressIndicator?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="700.0" prefWidth="1400.0" style="-fx-background-color: #000000;" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.kaf22.Controllers.Clock">
+   <children>
+      <Label fx:id="time" alignment="CENTER" layoutX="148.0" layoutY="25.0" text="00:00" textFill="#00ffef" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <font>
+            <Font name="Agency FB" size="300.0" />
+         </font>
+      </Label>
+      <Label fx:id="date" alignment="CENTER" layoutX="157.0" layoutY="310.0" text="00.00.0000" textFill="#ffe200" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="330.0">
+         <font>
+            <Font name="Ancient Kyiv" size="96.0" />
+         </font>
+      </Label>
+      <Label fx:id="pogoda" alignment="CENTER" layoutY="505.0" prefHeight="68.0" prefWidth="205.0" text="Kyiv  +5*" textFill="#800000" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="452.0">
+         <font>
+            <Font name="System Bold Italic" size="86.0" />
+         </font>
+      </Label>
+      <ProgressIndicator fx:id="timer" opacity="0.0" progress="0.0" />
+   </children>
+</AnchorPane>

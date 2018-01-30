@@ -28,6 +28,10 @@ public class Clock implements Initializable {
     public final static SimpleDateFormat tm = new SimpleDateFormat("HH:mm");
 
 
+
+
+
+    
     @Override
     public void initialize(URL location, ResourceBundle resources) {
         String[] wether = new String[8];
